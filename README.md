@@ -1,0 +1,2 @@
+# First-Code
+A car mechanic who has the capability to build a racing car. The car mechanic estimated a time in seconds which will be taken to construct a race car, But the professionals wanted the exact time in D:HH:MM:SS, (where D, HH, MM, and SS represent days, hours, minutes and seconds respectively) to be convinced for funding. Help them with a suitable logic that can help the car mechanic to convince company.
